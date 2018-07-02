@@ -1,0 +1,11 @@
+description : Fx56.0b2 beta vs Fx55.0.2 release
+timestamp : 2017-08-16-18-25-33
+branch : Beta
+source : top 460500
+Total time : 330 minutes
+test build metadata : NSS 3.32, NSPR 4.16
+release build metadata : NSS 3.31.1, NSPR 4.15
+test build url : None
+release build url : None
+mode : regression
+++++++++++

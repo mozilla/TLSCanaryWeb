@@ -1,0 +1,9 @@
+timestamp : 2015-11-16-16-18-00
+branch : Beta
+description : Fx43 Beta vs Fx42 release
+source : Pulse top sites 211096
+test build : https://download.mozilla.org/?product=firefox-beta-latest&os=osx&lang=en-US
+release build :
+Total time : 264 minutes
+++++++++++
+www.mylocker.net {"site_info":{"uri":"www.mylocker.net","connectionSpeed":"175","timestamp":"1447735374533"},"error":{"code":"0x805a1ff3","type":"certificate","message":"sec_error_unknown_issuer"},"cert_info":{"isEV":"false","certifiedUsages":"","chainLength":"1","nickname":"(no nickname)","emailAddress":"(no email address)","subjectName":"CN=*.mylocker.net,O=\"MyLocker.com, L.L.C.\",L=Warren,ST=Michigan,C=US","commonName":"*.mylocker.net","subjectAltName":"DNS name:*.mylocker.n...","keyUsage":"digitalSignature, keyEncipherment","extKeyUsage":"serverAuth, clientAuth","organization":"MyLocker.com, L.L.C.","organizationalUnit":"","validityNotBefore":"October 22, 2013 at 12:00:01 PM","validityNotAfter":"August 3, 2016 at 12:00:00 PM","signatureAlgorithm":"sha256WithRSAEncryption","sha1Fingerprint":"90:CB:2B:E5:F7:43:CA:EB:CD:CE:40:E4:BE:1B:8D:2F:C7:56:36:36","sha256Fingerprint":"D7:9F:9B:24:DE:3F:9A:36:86:4E:59:9E:E1:05:24:6F:EC:A6:D1:D4:54:85:EC:6F:45:F8:0D:B8:CE:3D:D5:01","issuerName":"","issuerOrganization":"DigiCert Inc","rootCertificateSubjectName":"CN=*.mylocker.net,O=\"MyLocker.com, L.L.C.\",L=Warren,ST=Michigan,C=US","rootCertificateOrganization":"MyLocker.com, L.L.C.","rootCertificateOrganizationalUnit":"","rootCertificateSHA1Fingerprint":"90:CB:2B:E5:F7:43:CA:EB:CD:CE:40:E4:BE:1B:8D:2F:C7:56:36:36","issuerCommonName":"DigiCert SHA2 High Assurance Server CA"}}

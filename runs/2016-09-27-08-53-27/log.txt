@@ -1,0 +1,10 @@
+timestamp : 2016-09-27-08-53-27
+branch : Beta
+description : Fx50.0b2 beta vs Fx49.0.1 release
+source : Alexa top sites 290773
+test build url : https://download.mozilla.org/?product=firefox-beta-latest&os=osx&lang=en-US
+release build url : https://download.mozilla.org/?product=firefox-latest&os=osx&lang=en-US
+test build metadata : NSS 3.26, NSPR 4.12
+release build metadata : NSS 3.25, NSPR 4.12
+Total time : 1020 minutes
+++++++++++

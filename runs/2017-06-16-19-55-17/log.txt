@@ -1,0 +1,11 @@
+source : top
+timestamp : 2017-06-16-19-55-17
+description : Fx55.0b2 beta vs Fx54.0 release
+branch : Beta
+test build url : https://download.mozilla.org/?product=firefox-beta-latest&os=linux64&lang=en-US
+test build metadata : NSS 3.31, NSPR 4.15
+release build metadata : NSS 3.30.2, NSPR 4.14
+Total time : 210 minutes
+release build url : https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=en-US
+mode : regression
+++++++++++

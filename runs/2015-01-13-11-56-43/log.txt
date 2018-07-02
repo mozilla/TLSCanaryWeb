@@ -1,0 +1,47 @@
+timestamp : 2015-01-13-11-56-43
+branch : Aurora
+description : Fx36 Aurora vs Fx34 release
+source : Pulse top 211096 sites
+build :
+Total time: n/a
+++++++++++
+calendar.sacredheart.edu {"site_info":{"uri":"calendar.sacredheart.edu"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+community.imperial.edu {"site_info":{"uri":"community.imperial.edu"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+danilomedina.do {"site_info":{"uri":"danilomedina.do"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+directory.imperial.edu {"site_info":{"uri":"directory.imperial.edu"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+donate.childrensaidsociety.org {"site_info":{"uri":"donate.childrensaidsociety.org"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+ec.fujikin.co.jp {"site_info":{"uri":"ec.fujikin.co.jp"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+libcat.kustar.ac.ae {"site_info":{"uri":"libcat.kustar.ac.ae"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+m.getawaytoday.com {"site_info":{"uri":"m.getawaytoday.com"},"error":{"code":"0x804b0014","type":"NetworkError","message":"pr_connect_reset_error"}}
+my.yota.ru {"site_info":{"uri":"my.yota.ru"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+online.cm.be {"site_info":{"uri":"online.cm.be"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+online.reliancemutual.com {"site_info":{"uri":"online.reliancemutual.com"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+owa.sacredheart.edu {"site_info":{"uri":"owa.sacredheart.edu"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+park.vodafone.cz {"site_info":{"uri":"park.vodafone.cz"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+pece.vodafone.cz {"site_info":{"uri":"pece.vodafone.cz"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+portal.allied.edu {"site_info":{"uri":"portal.allied.edu"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+portal.kangan.edu.au {"site_info":{"uri":"portal.kangan.edu.au"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+portals.drexelmed.edu {"site_info":{"uri":"portals.drexelmed.edu"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+reg.fonbet.com {"site_info":{"uri":"reg.fonbet.com"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+subscriptions.jse.co.za {"site_info":{"uri":"subscriptions.jse.co.za"},"error":{"code":"0x804b0014","type":"NetworkError","message":"pr_end_of_file_error"}}
+tuki.logium.com {"site_info":{"uri":"tuki.logium.com"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+webadvisor.sacredheart.edu {"site_info":{"uri":"webadvisor.sacredheart.edu"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+webtice.ac-guyane.fr {"site_info":{"uri":"webtice.ac-guyane.fr"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+www.cariparo.it {"site_info":{"uri":"www.cariparo.it"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+www.carisap.it {"site_info":{"uri":"www.carisap.it"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+www.carispo.it {"site_info":{"uri":"www.carispo.it"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+www.centralbedfordshire.gov.uk {"site_info":{"uri":"www.centralbedfordshire.gov.uk"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+www.cokesolutions.com {"site_info":{"uri":"www.cokesolutions.com"},"error":{"code":"0x805a1ff3","type":"SecurityUntrustedCertificateIssuerError","message":"sec_error_unknown_issuer"}}
+www.damaris.co.uk {"site_info":{"uri":"www.damaris.co.uk"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+www.florio-graphy.com {"site_info":{"uri":"www.florio-graphy.com"},"error":{"code":"0x804b001e","type":"undefined","message":"undefined"}}
+www.gosignmeup.com {"site_info":{"uri":"www.gosignmeup.com"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+www.graceprayer.org {"site_info":{"uri":"www.graceprayer.org"},"error":{"code":"0x805a1ff5","type":"SecurityExpiredCertificateError","message":"sec_error_expired_certificate"}}
+www.imzalagonder.com {"site_info":{"uri":"www.imzalagonder.com"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+www.myblackdiamonds.com {"site_info":{"uri":"www.myblackdiamonds.com"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+www.ncyu.edu.tw {"site_info":{"uri":"www.ncyu.edu.tw"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+www.shareable.net {"site_info":{"uri":"www.shareable.net"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+www.snct.lu {"site_info":{"uri":"www.snct.lu"},"error":{"code":"0x805a3ffd","type":"SecurityError","message":"mozilla_pkix_error_v1_cert_used_as_ca"}}
+www.speichermarkt.de {"site_info":{"uri":"www.speichermarkt.de"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+www.staffbay.com {"site_info":{"uri":"www.staffbay.com"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}
+www.taislim.com {"site_info":{"uri":"www.taislim.com"},"error":{"code":"0x805a1ff5","type":"SecurityExpiredCertificateError","message":"sec_error_expired_certificate"}}
+www.whirlpool.it {"site_info":{"uri":"www.whirlpool.it"},"error":{"code":"0x8000ffff","type":"undefined","message":"undefined"}}

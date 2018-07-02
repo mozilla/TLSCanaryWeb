@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PAGE_TITLE</title>
+  <link rel="stylesheet" href="../../legacy/css/report_styles.css">
+</head>
+<body>
+  <div id="main"></div>
+
+  <script src="../../legacy/js/vendor/Chart.js/Chart.min.js"></script>
+  <script src="../../legacy/js/Utility.js"></script>
+  <script src="../../legacy/js/PageController.js"></script>
+  <script src="../../legacy/js/TabContainer.js"></script>
+  <script src="../../legacy/js/Data.js"></script>
+  <script src="../../legacy/js/URIGrid.js"></script>
+  <script src="../../legacy/js/TLSCanary.js"></script>
+
+  <script>
+    var canary = new TLSCanary(document.getElementById("main"));
+    canary.load("log.txt");
+  </script>
+</body>
+</html>

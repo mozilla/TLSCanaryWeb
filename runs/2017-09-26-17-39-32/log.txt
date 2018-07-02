@@ -1,0 +1,11 @@
+description : Fx57.0b3 beta vs Fx55.0.3 release
+timestamp : 2017-09-26-17-39-32
+branch : Beta
+source : top 460500
+Total time : 350 minutes
+test build metadata : NSS 3.33, NSPR 4.17
+release build metadata : NSS 3.31.1, NSPR 4.15
+release build url : None
+test build url : None
+mode : regression
+++++++++++
