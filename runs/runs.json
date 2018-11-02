@@ -2,544 +2,556 @@
     {
         "data": [
             {
-                "branch": "Beta", 
-                "description": "Fx34 Beta vs Fx33 release *", 
-                "errors": "726", 
+                "branch": "Beta",
+                "description": "Fx34 Beta vs Fx33 release *",
+                "errors": "726",
                 "run": "2014-11-21-12-32-35"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx36 Aurora vs Fx34 release *", 
-                "errors": "40", 
+                "branch": "Aurora",
+                "description": "Fx36 Aurora vs Fx34 release *",
+                "errors": "40",
                 "run": "2015-01-13-11-56-43"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx38.0b1 Beta vs Fx37.0.2 release *", 
-                "errors": "126", 
+                "branch": "Beta",
+                "description": "Fx38.0b1 Beta vs Fx37.0.2 release *",
+                "errors": "126",
                 "run": "2015-04-02-14-52-15"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx39.0a2 Aurora vs Fx37.0.2 release *", 
-                "errors": "1842", 
+                "branch": "Aurora",
+                "description": "Fx39.0a2 Aurora vs Fx37.0.2 release *",
+                "errors": "1842",
                 "run": "2015-04-06-14-07-53"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx40 Nightly vs Fx37.0.2 release *", 
-                "errors": "1564", 
+                "branch": "Nightly",
+                "description": "Fx40 Nightly vs Fx37.0.2 release *",
+                "errors": "1564",
                 "run": "2015-04-24-14-51-11"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx39.0a2 Aurora vs Fx37.0.2 release *", 
-                "errors": "1521", 
+                "branch": "Aurora",
+                "description": "Fx39.0a2 Aurora vs Fx37.0.2 release *",
+                "errors": "1521",
                 "run": "2015-04-28-15-16-12"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx38.0b8 Beta vs Fx37.0.2 release *", 
-                "errors": "179", 
+                "branch": "Beta",
+                "description": "Fx38.0b8 Beta vs Fx37.0.2 release *",
+                "errors": "179",
                 "run": "2015-04-29-09-38-29"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx38.0.5b1 Beta vs Fx38 release *", 
-                "errors": "153", 
+                "branch": "Beta",
+                "description": "Fx38.0.5b1 Beta vs Fx38 release *",
+                "errors": "153",
                 "run": "2015-05-12-14-44-59"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx40.0a2 Aurora vs Fx38 release *", 
-                "errors": "1438", 
+                "branch": "Aurora",
+                "description": "Fx40.0a2 Aurora vs Fx38 release *",
+                "errors": "1438",
                 "run": "2015-05-13-14-41-16"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx40.0a2 Aurora vs Fx40.0a1, Logjam Aurora *", 
-                "errors": "999", 
+                "branch": "Aurora",
+                "description": "Fx40.0a2 Aurora vs Fx40.0a1, Logjam Aurora *",
+                "errors": "999",
                 "run": "2015-05-28-16-47-42"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx39.0b2 Beta vs Fx38.0.5 release *", 
-                "errors": "547", 
+                "branch": "Beta",
+                "description": "Fx39.0b2 Beta vs Fx38.0.5 release *",
+                "errors": "547",
                 "run": "2015-06-04-10-29-58"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx40.0b3 Beta vs Fx39 release *", 
-                "errors": "143", 
+                "branch": "Beta",
+                "description": "Fx40.0b3 Beta vs Fx39 release *",
+                "errors": "143",
                 "run": "2015-07-13-09-56-00"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx41.0a2 Aurora vs Fx39 release *", 
-                "errors": "1197", 
+                "branch": "Aurora",
+                "description": "Fx41.0a2 Aurora vs Fx39 release *",
+                "errors": "1197",
                 "run": "2015-07-14-16-13-10"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx41.0b1 Beta vs Fx40 release *", 
-                "errors": "153", 
+                "branch": "Beta",
+                "description": "Fx41.0b1 Beta vs Fx40 release *",
+                "errors": "153",
                 "run": "2015-08-13-14-58-49"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx42.0a2 Aurora vs Fx40 release *", 
-                "errors": "978", 
+                "branch": "Aurora",
+                "description": "Fx42.0a2 Aurora vs Fx40 release *",
+                "errors": "978",
                 "run": "2015-08-14-10-13-16"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx43.0a1 Nightly vs Fx40 release", 
-                "errors": "893", 
+                "branch": "Nightly",
+                "description": "Fx43.0a1 Nightly vs Fx40 release",
+                "errors": "893",
                 "run": "2015-09-21-16-53-05"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx42.0b1 vs Fx41.0 release", 
-                "errors": "14", 
+                "branch": "Beta",
+                "description": "Fx42.0b1 vs Fx41.0 release",
+                "errors": "14",
                 "run": "2015-09-24-13-19-46"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx43.0a2 Aurora vs Fx41.0 release", 
-                "errors": "864", 
+                "branch": "Aurora",
+                "description": "Fx43.0a2 Aurora vs Fx41.0 release",
+                "errors": "864",
                 "run": "2015-09-24-17-43-23"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx44 nightly vs Fx41 release", 
-                "errors": "725", 
+                "branch": "Nightly",
+                "description": "Fx44 nightly vs Fx41 release",
+                "errors": "725",
                 "run": "2015-10-30-09-52-16"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx45.0a1 Nightly vs Fx42.0 release (pre-NSS 3.21)", 
-                "errors": "692", 
+                "branch": "Nightly",
+                "description": "Fx45.0a1 Nightly vs Fx42.0 release (pre-NSS 3.21)",
+                "errors": "692",
                 "run": "2015-11-11-13-28-36"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx44.0a2 Aurora vs Fx42.0 release (pre-NSS 3.21)", 
-                "errors": "697", 
+                "branch": "Aurora",
+                "description": "Fx44.0a2 Aurora vs Fx42.0 release (pre-NSS 3.21)",
+                "errors": "697",
                 "run": "2015-11-12-14-59-23"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx45.0a1 Nightly vs Fx42.0 release (post-NSS 3.21)", 
-                "errors": "700", 
+                "branch": "Nightly",
+                "description": "Fx45.0a1 Nightly vs Fx42.0 release (post-NSS 3.21)",
+                "errors": "700",
                 "run": "2015-11-16-10-56-06"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx43 Beta vs Fx42 release", 
-                "errors": "1", 
+                "branch": "Beta",
+                "description": "Fx43 Beta vs Fx42 release",
+                "errors": "1",
                 "run": "2015-11-16-16-18-00"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx44.0a2 Aurora vs Fx42 release (post-NSS 3.21)", 
-                "errors": "673", 
+                "branch": "Aurora",
+                "description": "Fx44.0a2 Aurora vs Fx42 release (post-NSS 3.21)",
+                "errors": "673",
                 "run": "2015-11-19-15-12-30"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx46.0a1 Nightly vs Fx43 release", 
-                "errors": "519", 
+                "branch": "Nightly",
+                "description": "Fx46.0a1 Nightly vs Fx43 release",
+                "errors": "519",
                 "run": "2015-12-28-10-26-44"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx45.0a2 Aurora vs Fx43 release", 
-                "errors": "519", 
+                "branch": "Aurora",
+                "description": "Fx45.0a2 Aurora vs Fx43 release",
+                "errors": "519",
                 "run": "2015-12-28-15-48-51"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx44 Beta vs Fx43 release", 
-                "errors": "523", 
+                "branch": "Beta",
+                "description": "Fx44 Beta vs Fx43 release",
+                "errors": "523",
                 "run": "2015-12-29-11-36-51"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx45 Beta vs Fx44 release", 
-                "errors": "16", 
+                "branch": "Beta",
+                "description": "Fx45 Beta vs Fx44 release",
+                "errors": "16",
                 "run": "2016-02-01-15-43-23"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx46.0a2 Aurora vs Fx44 release", 
-                "errors": "14", 
+                "branch": "Aurora",
+                "description": "Fx46.0a2 Aurora vs Fx44 release",
+                "errors": "14",
                 "run": "2016-02-02-09-39-12"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx47.0a1 Nightly vs Fx44 release", 
-                "errors": "21", 
+                "branch": "Nightly",
+                "description": "Fx47.0a1 Nightly vs Fx44 release",
+                "errors": "21",
                 "run": "2016-02-02-14-16-33"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx48.0a1 Nightly vs Fx45.0 release", 
-                "errors": "5", 
+                "branch": "Nightly",
+                "description": "Fx48.0a1 Nightly vs Fx45.0 release",
+                "errors": "5",
                 "run": "2016-03-15-11-33-23"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx47.0a2 Aurora vs Fx45.0 release", 
-                "errors": "2", 
+                "branch": "Aurora",
+                "description": "Fx47.0a2 Aurora vs Fx45.0 release",
+                "errors": "2",
                 "run": "2016-03-15-16-39-09"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx46 Beta vs Fx45.0.1 release", 
-                "errors": "11", 
+                "branch": "Beta",
+                "description": "Fx46 Beta vs Fx45.0.1 release",
+                "errors": "11",
                 "run": "2016-03-22-13-55-36"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx48.0a1 Nightly changes for bug 1245280", 
-                "errors": "286", 
+                "branch": "Nightly",
+                "description": "Fx48.0a1 Nightly changes for bug 1245280",
+                "errors": "286",
                 "run": "2016-04-04-10-56-25"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx47.0b1 beta vs Fx46.0 release", 
-                "errors": "3", 
+                "branch": "Beta",
+                "description": "Fx47.0b1 beta vs Fx46.0 release",
+                "errors": "3",
                 "run": "2016-05-02-13-13-04"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx48.0a2 aurora vs Fx46.0.1 release", 
-                "errors": "22", 
+                "branch": "Aurora",
+                "description": "Fx48.0a2 aurora vs Fx46.0.1 release",
+                "errors": "22",
                 "run": "2016-05-06-16-25-36"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx49.0a1 nightly vs Fx46.0.1 release", 
-                "errors": "19", 
+                "branch": "Nightly",
+                "description": "Fx49.0a1 nightly vs Fx46.0.1 release",
+                "errors": "19",
                 "run": "2016-05-06-11-34-53"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx49.0a1 nightly - compatibility for netscape_step_up", 
-                "errors": "88", 
+                "branch": "Nightly",
+                "description": "Fx49.0a1 nightly - compatibility for netscape_step_up",
+                "errors": "88",
                 "run": "2016-05-18-11-49-18"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx49.0a1 nightly - TLS 1.3 compat testing", 
-                "errors": "50", 
+                "branch": "Nightly",
+                "description": "Fx49.0a1 nightly - TLS 1.3 compat testing",
+                "errors": "50",
                 "run": "2016-05-23-09-13-21"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx48.0b1 beta vs Fx47.0 release", 
-                "errors": "6", 
+                "branch": "Beta",
+                "description": "Fx48.0b1 beta vs Fx47.0 release",
+                "errors": "6",
                 "run": "2016-06-09-15-43-48"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx49.0a2 aurora vs Fx47.0 release", 
-                "errors": "41", 
+                "branch": "Aurora",
+                "description": "Fx49.0a2 aurora vs Fx47.0 release",
+                "errors": "41",
                 "run": "2016-06-10-10-09-40"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx49.0b2 beta vs Fx48.0 release", 
-                "errors": "0", 
+                "branch": "Beta",
+                "description": "Fx49.0b2 beta vs Fx48.0 release",
+                "errors": "0",
                 "run": "2016-08-09-10-04-59"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx50.0a2 aurora vs Fx48.0 release", 
-                "errors": "17", 
+                "branch": "Aurora",
+                "description": "Fx50.0a2 aurora vs Fx48.0 release",
+                "errors": "17",
                 "run": "2016-08-10-13-32-11"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx51.0a1 nightly vs Fx48.0 release", 
-                "errors": "18", 
+                "branch": "Nightly",
+                "description": "Fx51.0a1 nightly vs Fx48.0 release",
+                "errors": "18",
                 "run": "2016-08-11-09-27-04"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx50.0b2 beta vs Fx49.0.1 release", 
-                "errors": "0", 
+                "branch": "Beta",
+                "description": "Fx50.0b2 beta vs Fx49.0.1 release",
+                "errors": "0",
                 "run": "2016-09-27-08-53-27"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx51.0a2 aurora vs Fx49.0.1 release", 
-                "errors": "5313", 
+                "branch": "Aurora",
+                "description": "Fx51.0a2 aurora vs Fx49.0.1 release",
+                "errors": "5313",
                 "run": "2016-09-28-09-51-13"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx52.0a1 nightly vs Fx50.0b2 beta", 
-                "errors": "17", 
+                "branch": "Nightly",
+                "description": "Fx52.0a1 nightly vs Fx50.0b2 beta",
+                "errors": "17",
                 "run": "2016-09-28-16-14-48"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx52.0a1 nightly vs Fx49.0.1 release", 
-                "errors": "11", 
+                "branch": "Nightly",
+                "description": "Fx52.0a1 nightly vs Fx49.0.1 release",
+                "errors": "11",
                 "run": "2016-10-06-15-49-14"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx52.0a1 Nightly: Hong Kong Post root cert removal", 
-                "errors": "23", 
+                "branch": "Nightly",
+                "description": "Fx52.0a1 Nightly: Hong Kong Post root cert removal",
+                "errors": "23",
                 "run": "2016-10-06-09-41-22"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx52.0a1 nightly vs Fx49.0.2 release", 
-                "errors": "124", 
+                "branch": "Nightly",
+                "description": "Fx52.0a1 nightly vs Fx49.0.2 release",
+                "errors": "124",
                 "run": "2016-11-10-09-39-35"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx53.0a1 nightly vs Fx50.0.2 release", 
-                "errors": "178", 
+                "branch": "Nightly",
+                "description": "Fx53.0a1 nightly vs Fx50.0.2 release",
+                "errors": "178",
                 "run": "2016-12-01-12-07-41"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx51.0b5 beta vs Fx50.0.2 release", 
-                "errors": "149", 
+                "branch": "Beta",
+                "description": "Fx51.0b5 beta vs Fx50.0.2 release",
+                "errors": "149",
                 "run": "2016-12-01-15-51-22"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx52.0a2 aurora vs Fx50.0.2 release", 
-                "errors": "185", 
+                "branch": "Aurora",
+                "description": "Fx52.0a2 aurora vs Fx50.0.2 release",
+                "errors": "185",
                 "run": "2016-12-12-10-46-36"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx53.0a1 nightly vs Fx50.1.0 release - SHA1, bug 1330043", 
-                "errors": "1323", 
+                "branch": "Nightly",
+                "description": "Fx53.0a1 nightly vs Fx50.1.0 release - SHA1, bug 1330043",
+                "errors": "1323",
                 "run": "2017-01-16-17-00-59"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx54.0a1 nightly vs Fx51.0.1 release", 
-                "errors": "1290", 
+                "branch": "Nightly",
+                "description": "Fx54.0a1 nightly vs Fx51.0.1 release",
+                "errors": "1290",
                 "run": "2017-01-27-23-34-54"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx52.0b1 beta vs Fx51.0.1 release", 
-                "errors": "13", 
+                "branch": "Beta",
+                "description": "Fx52.0b1 beta vs Fx51.0.1 release",
+                "errors": "13",
                 "run": "2017-01-27-22-03-59"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx53.0a2 aurora vs Fx51.0.1 release", 
-                "errors": "1274", 
+                "branch": "Aurora",
+                "description": "Fx53.0a2 aurora vs Fx51.0.1 release",
+                "errors": "1274",
                 "run": "2017-01-30-22-42-56"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx54.0a1 nightly vs Fx51.0.1 release", 
-                "errors": "1083", 
+                "branch": "Nightly",
+                "description": "Fx54.0a1 nightly vs Fx51.0.1 release",
+                "errors": "1083",
                 "run": "2017-02-09-20-13-01"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx54.0a1 nightly vs Fx51.0.1 release", 
-                "errors": "751", 
+                "branch": "Nightly",
+                "description": "Fx54.0a1 nightly vs Fx51.0.1 release",
+                "errors": "751",
                 "run": "2017-03-03-21-25-29"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx54.0a1 nightly vs Fx51.0.1 release", 
-                "errors": "835", 
+                "branch": "Nightly",
+                "description": "Fx54.0a1 nightly vs Fx51.0.1 release",
+                "errors": "835",
                 "run": "2017-03-06-17-13-00"
-            }, 
+            },
             {
-                "branch": "Aurora", 
-                "description": "Fx54.0a2 aurora vs Fx52.0 release", 
-                "errors": "8", 
+                "branch": "Aurora",
+                "description": "Fx54.0a2 aurora vs Fx52.0 release",
+                "errors": "8",
                 "run": "2017-03-14-23-41-40"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx53.0b2 beta vs Fx52.0 release", 
-                "errors": "4", 
+                "branch": "Beta",
+                "description": "Fx53.0b2 beta vs Fx52.0 release",
+                "errors": "4",
                 "run": "2017-03-16-23-11-55"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx55.0a1 nightly vs Fx52.0.1 release", 
-                "errors": "5", 
+                "branch": "Nightly",
+                "description": "Fx55.0a1 nightly vs Fx52.0.1 release",
+                "errors": "5",
                 "run": "2017-03-20-18-32-41"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx55.0a1 nightly vs Fx53.0 release", 
-                "errors": "3", 
+                "branch": "Nightly",
+                "description": "Fx55.0a1 nightly vs Fx53.0 release",
+                "errors": "3",
                 "run": "2017-04-24-21-15-59"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx54.0b1 beta vs Fx53.0 release", 
-                "errors": "0", 
+                "branch": "Beta",
+                "description": "Fx54.0b1 beta vs Fx53.0 release",
+                "errors": "0",
                 "run": "2017-04-25-16-23-09"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx55.0b2 beta vs Fx54.0 release", 
-                "errors": "0", 
+                "branch": "Beta",
+                "description": "Fx55.0b2 beta vs Fx54.0 release",
+                "errors": "0",
                 "run": "2017-06-16-19-55-17"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx56.0a1 nightly vs Fx54.0 release", 
-                "errors": "0", 
+                "branch": "Nightly",
+                "description": "Fx56.0a1 nightly vs Fx54.0 release",
+                "errors": "0",
                 "run": "2017-06-16-19-53-53"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx56.0a1 nightly - 3DES cipher disable", 
-                "errors": "825", 
+                "branch": "Nightly",
+                "description": "Fx56.0a1 nightly - 3DES cipher disable",
+                "errors": "825",
                 "run": "2017-08-01-17-07-49"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx57.0a1 nightly vs Fx55.0.1 release", 
-                "errors": "850", 
+                "branch": "Nightly",
+                "description": "Fx57.0a1 nightly vs Fx55.0.1 release",
+                "errors": "850",
                 "run": "2017-08-15-21-17-48"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx56.0b2 beta vs Fx55.0.2 release", 
-                "errors": "0", 
+                "branch": "Beta",
+                "description": "Fx56.0b2 beta vs Fx55.0.2 release",
+                "errors": "0",
                 "run": "2017-08-16-18-25-33"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx57.0b3 beta vs Fx55.0.3 release", 
-                "errors": "0", 
+                "branch": "Beta",
+                "description": "Fx57.0b3 beta vs Fx55.0.3 release",
+                "errors": "0",
                 "run": "2017-09-26-17-39-32"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx58.0a1 nightly vs Fx55.0.3 release", 
-                "errors": "801", 
+                "branch": "Nightly",
+                "description": "Fx58.0a1 nightly vs Fx55.0.3 release",
+                "errors": "801",
                 "run": "2017-09-27-15-39-09"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx59.0a1 nightly vs Fx57.0 release", 
-                "errors": "159", 
+                "branch": "Nightly",
+                "description": "Fx59.0a1 nightly vs Fx57.0 release",
+                "errors": "159",
                 "run": "2017-11-15-12-59-15"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx58.0b4 beta vs Fx57.0 release", 
-                "errors": "162", 
+                "branch": "Beta",
+                "description": "Fx58.0b4 beta vs Fx57.0 release",
+                "errors": "162",
                 "run": "2017-11-16-09-04-06"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx60.0a1 nightly, disable DHE cipher, TLS 1.3 disabled", 
-                "errors": 17, 
+                "branch": "Nightly",
+                "description": "Fx60.0a1 nightly, disable DHE cipher, TLS 1.3 disabled",
+                "errors": 17,
                 "run": "2018-01-24-17-23-46"
-            }, 
+            },
             {
-                "branch": "Nightly", 
-                "description": "Fx60.0a1 nightly, disable DHE cipher, TLS 1.3 enabled", 
-                "errors": 17, 
+                "branch": "Nightly",
+                "description": "Fx60.0a1 nightly, disable DHE cipher, TLS 1.3 enabled",
+                "errors": 17,
                 "run": "2018-01-25-01-21-44"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx60.0a1 nightly vs Fx58.0 release", 
-                "errors": 2, 
+                "branch": "Nightly",
+                "description": "Fx60.0a1 nightly vs Fx58.0 release",
+                "errors": 2,
                 "run": "2018-01-29-17-05-23"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx59.0b5 beta vs Fx58.0.1 release", 
-                "errors": 3, 
+                "branch": "Beta",
+                "description": "Fx59.0b5 beta vs Fx58.0.1 release",
+                "errors": 3,
                 "run": "2018-01-30-05-28-32"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx60.0a1 nightly, top 10k, bug 1434300", 
-                "errors": 299, 
+                "branch": "Nightly",
+                "description": "Fx60.0a1 nightly, top 10k, bug 1434300",
+                "errors": 299,
                 "run": "2018-02-23-11-56-37"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx60.0a1 nightly, top 10k, bug 1434300", 
-                "errors": 188, 
+                "branch": "Nightly",
+                "description": "Fx60.0a1 nightly, top 10k, bug 1434300",
+                "errors": 188,
                 "run": "2018-03-02-09-43-03"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx60.0a1 nightly, top 10k, bug 1434300", 
-                "errors": 181, 
+                "branch": "Nightly",
+                "description": "Fx60.0a1 nightly, top 10k, bug 1434300",
+                "errors": 181,
                 "run": "2018-03-05-14-50-39"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx60.0a1 nightly, top 10k, bug 1434300", 
-                "errors": 157, 
+                "branch": "Nightly",
+                "description": "Fx60.0a1 nightly, top 10k, bug 1434300",
+                "errors": 157,
                 "run": "2018-03-08-10-41-46"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx60.0a1 nightly, top 10k, bug 1434300", 
-                "errors": 119, 
+                "branch": "Nightly",
+                "description": "Fx60.0a1 nightly, top 10k, bug 1434300",
+                "errors": 119,
                 "run": "2018-03-12-17-11-43"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx60.0a1 nightly, top 10k, bug 1434300", 
-                "errors": 86, 
+                "branch": "Nightly",
+                "description": "Fx60.0a1 nightly, top 10k, bug 1434300",
+                "errors": 86,
                 "run": "2018-03-16-01-05-40"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx61.0a1 nightly, top 10k, bug 1434300", 
-                "errors": 68, 
+                "branch": "Nightly",
+                "description": "Fx61.0a1 nightly, top 10k, bug 1434300",
+                "errors": 68,
                 "run": "2018-03-20-16-37-53"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx61.0a1 nightly, top 10k, bug 1434300", 
-                "errors": 64, 
+                "branch": "Nightly",
+                "description": "Fx61.0a1 nightly, top 10k, bug 1434300",
+                "errors": 64,
                 "run": "2018-03-26-17-51-59"
             },
-                        {
-                "branch": "Nightly", 
-                "description": "Fx62.0a1 nightly vs Fx60.0 release", 
-                "errors": 1, 
-                "run": "2018-05-15-03-50-25"
-            }, 
             {
-                "branch": "Beta", 
-                "description": "Fx61.0b4 beta vs Fx60.0 release", 
-                "errors": 1, 
+                "branch": "Nightly",
+                "description": "Fx62.0a1 nightly vs Fx60.0 release",
+                "errors": 1,
+                "run": "2018-05-15-03-50-25"
+            },
+            {
+                "branch": "Beta",
+                "description": "Fx61.0b4 beta vs Fx60.0 release",
+                "errors": 1,
                 "run": "2018-05-15-15-01-25"
             },
             {
-                "branch": "Nightly", 
-                "description": "Fx63.0a1 nightly vs Fx61.0 release", 
-                "errors": 2, 
+                "branch": "Nightly",
+                "description": "Fx63.0a1 nightly vs Fx61.0 release",
+                "errors": 2,
                 "run": "2018-06-27-18-59-51"
-            }, 
+            },
             {
-                "branch": "Beta", 
-                "description": "Fx62.0b3 beta vs Fx61.0 release", 
-                "errors": 2, 
+                "branch": "Beta",
+                "description": "Fx62.0b3 beta vs Fx61.0 release",
+                "errors": 2,
                 "run": "2018-06-28-17-56-22"
+            },
+            {
+                "branch": "Beta",
+                "description": "Fx64.0b5 beta vs Fx63.0.1 release",
+                "errors": 4045,
+                "run": "2018-11-01-04-35-55"
+            },
+            {
+                "branch": "Nightly",
+                "description": "Fx65.0a1 nightly vs Fx63.0.1 release",
+                "errors": 4034,
+                "run": "2018-11-01-11-02-45"
             }
         ]
     }
