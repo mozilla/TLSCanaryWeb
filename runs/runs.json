@@ -552,6 +552,12 @@
                 "description": "Fx65.0a1 nightly vs Fx63.0.1 release",
                 "errors": 4034,
                 "run": "2018-11-01-11-02-45"
+            },
+            {
+                "branch": "Nightly",
+                "description": "Fx65.0a1 nightly vs Fx64.0b13 beta",
+                "errors": 2,
+                "run": "2018-11-28-21-44-34"
             }
         ]
     }
