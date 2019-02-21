@@ -10,5 +10,5 @@ command = ""
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
-    Content-Security-Policy = "default-src: https:; style-src: https:; frame-ancestors 'none'; object-src 'none'"
+    Content-Security-Policy = "default-src: https:; script-src: https:; style-src: https:; frame-ancestors 'none'; object-src 'none'"
     X-Content-Type-Options = "nosniff"
