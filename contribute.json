@@ -1,0 +1,11 @@
+{
+  "name": "Mozilla TLSCanary",
+  "description": "A site compatibility tool for Firefox.",
+  "repository": {
+    "url": "https://github.com/mozilla/TLSCanaryWeb.git",
+    "license": "MPL2"
+  },
+  "participate": {
+    "home": "https://github.com/mozilla/TLSCanaryWeb"
+  }
+}
